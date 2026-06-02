@@ -1,2 +1,4 @@
 # myportfolio
-This website is one of my projects that show cases my skills and has more information about me
+# React + TypeScript + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
